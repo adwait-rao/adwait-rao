@@ -24,12 +24,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Adwait Rao](https://in.linkedin.com/in/adwait-rao-973a57222)
-- **Twitter/X**: [@adwaitraoo](https://twitter.com/adwaitraoo)
-
-## 💬 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me!
-
----
-
-✨ **Happy Coding!** ✨
+- **Twitter/X**: [@adwaitwt](https://twitter.com/adwaitwt)
