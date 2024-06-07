@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express, Go (learning)
 - **Design**: Figma, Adobe XD
-- **Databases**: MySQL, MongoDB
+- **Databases**: PostgreSQL, MongoDB
 - **Other**: Git, Docker, Kubernetes
 
 ## 🌱 Currently Learning
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Adwait Rao]([https://www.linkedin.com/in/adwait-rao](https://in.linkedin.com/in/adwait-rao-973a57222))
+- **LinkedIn**: [Adwait Rao](https://in.linkedin.com/in/adwait-rao-973a57222)
 - **Twitter/X**: [@adwaitraoo](https://twitter.com/adwaitraoo)
 
 ## 💬 Let's Connect!
@@ -37,8 +37,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 
 ✨ **Happy Coding!** ✨
-
-
-[![](https://visitcount.itsvg.in/api?id=adwait-rao&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
