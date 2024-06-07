@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - Go (Golang): Building scalable and efficient backend services.
 
-## 📈 GitHub Stats
-
-![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Adwait Rao](https://in.linkedin.com/in/adwait-rao-973a57222)
