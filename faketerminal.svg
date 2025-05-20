@@ -54,13 +54,29 @@
     </g>
   </svg>
 
-  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS         • <tspan fill="#8be9fd">Linux Mint 22.1 x86_64</tspan></text>
-  <text x="300" y="90" font-family="monospace" font-size="14" fill="#c0c0c0">Shell      • <tspan fill="#f1fa8c">zsh 5.9</tspan></text>
-  <text x="300" y="110" font-family="monospace" font-size="14" fill="#c0c0c0">Editor     • <tspan fill="#50fa7b">Neovim, VS Code</tspan></text>
-  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role       • <tspan fill="#ff79c6">Versatile Dev</tspan></text>
-  <text x="300" y="150" font-family="monospace" font-size="14" fill="#c0c0c0">Learning   • <tspan fill="#ffb86c">Go, TypeScript, React Native</tspan></text>
-  <text x="300" y="170" font-family="monospace" font-size="14" fill="#c0c0c0">Known      • <tspan fill="#bd93f9">Linux, JavaScript, Node, React</tspan></text>
-  <text x="300" y="190" font-family="monospace" font-size="14" fill="#c0c0c0">           • <tspan fill="#bd93f9">Express, Svelte</tspan></text>
-  <text x="300" y="220" font-family="monospace" font-size="14" fill="#c0c0c0">Email      • <tspan fill="#8be9fd">adwaitrao7000@gmail.com</tspan></text>
-  <text x="300" y="240" font-family="monospace" font-size="14" fill="#c0c0c0">X.com      • <tspan fill="#f1fa8c">@adwaitwt</tspan></text>
+  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS         : </text>
+  <text x="440" y="70" font-family="monospace" font-size="14" fill="#8be9fd">Linux Mint 22.1 x86_64</text>
+
+  <text x="300" y="90" font-family="monospace" font-size="14" fill="#c0c0c0">Shell      : </text>
+  <text x="440" y="90" font-family="monospace" font-size="14" fill="#f1fa8c">zsh 5.9</text>
+
+  <text x="300" y="110" font-family="monospace" font-size="14" fill="#c0c0c0">Editor     : </text>
+  <text x="440" y="110" font-family="monospace" font-size="14" fill="#50fa7b">Neovim, VS Code</text>
+
+  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role       : </text>
+  <text x="440" y="130" font-family="monospace" font-size="14" fill="#ff79c6">Full Stack Developer</text>
+
+  <text x="300" y="150" font-family="monospace" font-size="14" fill="#c0c0c0">Learning   : </text>
+  <text x="440" y="150" font-family="monospace" font-size="14" fill="#ffb86c">Go, TypeScript, React Native</text>
+
+  <text x="300" y="170" font-family="monospace" font-size="14" fill="#c0c0c0">Known      : </text>
+  <text x="440" y="170" font-family="monospace" font-size="14" fill="#bd93f9">Linux, JavaScript, Node, React</text>
+  <text x="300" y="190" font-family="monospace" font-size="14" fill="#c0c0c0">           </text> 
+  <text x="440" y="190" font-family="monospace" font-size="14" fill="#bd93f9">Express, Svelte</text>
+
+  <text x="300" y="220" font-family="monospace" font-size="14" fill="#c0c0c0">Email      : </text>
+  <text x="440" y="220" font-family="monospace" font-size="14" fill="#8be9fd">adwaitrao7000@gmail.com</text>
+
+  <text x="300" y="240" font-family="monospace" font-size="14" fill="#c0c0c0">X.com      : </text>
+  <text x="440" y="240" font-family="monospace" font-size="14" fill="#f1fa8c">@adwaitwt</text>
 </svg>
