@@ -1,71 +1,66 @@
 <svg width="800" height="280" xmlns="http://www.w3.org/2000/svg">
-  <!-- Terminal background -->
   <rect width="100%" height="100%" rx="16" fill="#1e1e1e" />
 
-  <!-- Terminal buttons -->
   <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="6" fill="#27c93f"/>
 
-  <!-- Terminal hostname -->
   <text x="300" y="45" font-family="monospace" font-size="16" fill="#66cc99">
     adwaitrao@hostmalone
   </text>
 
-  <svg width="280" height="260" viewBox="0 0 280 260">
-  <defs>
-    <radialGradient id="planetGradient" cx="30%" cy="30%" r="50%" fx="30%" fy="30%">
-      <stop offset="0%" stop-color="#8fd2f2"/>
-      <stop offset="50%" stop-color="#4f8cc9"/>
-      <stop offset="100%" stop-color="#2a5c9a"/>
-    </radialGradient>
-    <radialGradient id="atmosphereGradient" cx="50%" cy="50%" r="55%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#ffffff00"/>
-      <stop offset="70%" stop-color="#ffffff11"/>
-      <stop offset="100%" stop-color="#ffffff44"/>
-    </radialGradient>
-    <radialGradient id="surfaceVariation1" cx="40%" cy="40%" r="60%" fx="40%" fy="40%">
-      <stop offset="0%" stop-color="#67a7d6" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#3b7ab0" stop-opacity="0.1"/>
-    </radialGradient>
-    <radialGradient id="surfaceVariation2" cx="60%" cy="60%" r="50%" fx="60%" fy="60%">
-      <stop offset="0%" stop-color="#a0c4df" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#5e9ac9" stop-opacity="0.25"/>
-    </radialGradient>
-    <radialGradient id="cloud1" cx="20%" cy="30%" r="40%" fx="20%" fy="30%">
-      <stop offset="0%" stop-color="#ffffffaa"/>
-      <stop offset="100%" stop-color="#ffffff00"/>
-    </radialGradient>
-    <radialGradient id="cloud2" cx="70%" cy="60%" r="35%" fx="70%" fy="60%">
-      <stop offset="0%" stop-color="#ffffffbb"/>
-      <stop offset="100%" stop-color="#ffffff00"/>
-    </radialGradient>
-  </defs>
-  <g transform="translate(140, 130)">
-    <circle cx="0" cy="0" r="60" fill="url(#planetGradient)" />
+  <svg x="0" y="0" width="280" height="260" viewBox="0 0 280 260">
+    <defs>
+      <radialGradient id="planetGradient" cx="30%" cy="30%" r="50%" fx="30%" fy="30%">
+        <stop offset="0%" stop-color="#8fd2f2"/>
+        <stop offset="50%" stop-color="#4f8cc9"/>
+        <stop offset="100%" stop-color="#2a5c9a"/>
+      </radialGradient>
+      <radialGradient id="atmosphereGradient" cx="50%" cy="50%" r="55%" fx="50%" fy="50%">
+        <stop offset="0%" stop-color="#ffffff00"/>
+        <stop offset="70%" stop-color="#ffffff11"/>
+        <stop offset="100%" stop-color="#ffffff44"/>
+      </radialGradient>
+      <radialGradient id="surfaceVariation1" cx="40%" cy="40%" r="60%" fx="40%" fy="40%">
+        <stop offset="0%" stop-color="#67a7d6" stop-opacity="0.2"/>
+        <stop offset="100%" stop-color="#3b7ab0" stop-opacity="0.1"/>
+      </radialGradient>
+      <radialGradient id="surfaceVariation2" cx="60%" cy="60%" r="50%" fx="60%" fy="60%">
+        <stop offset="0%" stop-color="#a0c4df" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#5e9ac9" stop-opacity="0.25"/>
+      </radialGradient>
+      <radialGradient id="cloud1" cx="20%" cy="30%" r="40%" fx="20%" fy="30%">
+        <stop offset="0%" stop-color="#ffffffaa"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </radialGradient>
+      <radialGradient id="cloud2" cx="70%" cy="60%" r="35%" fx="70%" fy="60%">
+        <stop offset="0%" stop-color="#ffffffbb"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </radialGradient>
+    </defs>
+    <g transform="translate(140, 130)">
+      <circle cx="0" cy="0" r="60" fill="url(#planetGradient)" />
 
-    <circle cx="5" cy="10" r="55" fill="url(#surfaceVariation1)" />
-    <circle cx="-10" cy="-5" r="50" fill="url(#surfaceVariation2)" />
+      <circle cx="5" cy="10" r="55" fill="url(#surfaceVariation1)" />
+      <circle cx="-10" cy="-5" r="50" fill="url(#surfaceVariation2)" />
 
-    <ellipse cx="-15" cy="-25" rx="25" ry="10" fill="url(#cloud1)" opacity="0.7"/>
-    <ellipse cx="20" cy="15" rx="30" ry="12" fill="url(#cloud2)" opacity="0.6"/>
-    <circle cx="-35" cy="25" r="15" fill="#ffffff88" opacity="0.5"/>
-    <circle cx="30" cy="-30" r="20" fill="#ffffff77" opacity="0.4"/>
-    <circle cx="0" cy="40" r="18" fill="#ffffff99" opacity="0.6"/>
+      <ellipse cx="-15" cy="-25" rx="25" ry="10" fill="url(#cloud1)" opacity="0.7"/>
+      <ellipse cx="20" cy="15" rx="30" ry="12" fill="url(#cloud2)" opacity="0.6"/>
+      <circle cx="-35" cy="25" r="15" fill="#ffffff88" opacity="0.5"/>
+      <circle cx="30" cy="-30" r="20" fill="#ffffff77" opacity="0.4"/>
+      <circle cx="0" cy="40" r="18" fill="#ffffff99" opacity="0.6"/>
 
+      <circle cx="0" cy="0" r="65" fill="url(#atmosphereGradient)" />
+    </g>
+  </svg>
 
-    <circle cx="0" cy="0" r="65" fill="url(#atmosphereGradient)" />
-  </g>
-</svg>
-
-  <!-- Terminal Info -->
-  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS       • Linux Mint 22.1 x86_64</text>
-  <text x="300" y="90" font-family="monospace" font-size="14" fill="#c0c0c0">Shell    • zsh 5.9</text>
-  <text x="300" y="110" font-family="monospace" font-size="14" fill="#c0c0c0">Editor   • Neovim, VS Code</text>
-  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role     • Versatile Dev</text>
-  <text x="300" y="150" font-family="monospace" font-size="14" fill="#c0c0c0">Learning • Go, TypeScript, React Native</text>
-  <text x="300" y="170" font-family="monospace" font-size="14" fill="#c0c0c0">Known    • Linux, JavaScript, Node, React</text>
-  <text x="300" y="190" font-family="monospace" font-size="14" fill="#c0c0c0">          • Express, Svelte</text>
-  <text x="300" y="220" font-family="monospace" font-size="14" fill="#c0c0c0">Email    • adwaitrao7000@gmail.com</text>
-  <text x="300" y="240" font-family="monospace" font-size="14" fill="#c0c0c0">X.com    • @adwaitwt</text>
+  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS         • <tspan fill="#8be9fd">Linux Mint 22.1 x86_64</tspan></text>
+  <text x="300" y="90" font-family="monospace" font-size="14" fill="#c0c0c0">Shell      • <tspan fill="#f1fa8c">zsh 5.9</tspan></text>
+  <text x="300" y="110" font-family="monospace" font-size="14" fill="#c0c0c0">Editor     • <tspan fill="#50fa7b">Neovim, VS Code</tspan></text>
+  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role       • <tspan fill="#ff79c6">Versatile Dev</tspan></text>
+  <text x="300" y="150" font-family="monospace" font-size="14" fill="#c0c0c0">Learning   • <tspan fill="#ffb86c">Go, TypeScript, React Native</tspan></text>
+  <text x="300" y="170" font-family="monospace" font-size="14" fill="#c0c0c0">Known      • <tspan fill="#bd93f9">Linux, JavaScript, Node, React</tspan></text>
+  <text x="300" y="190" font-family="monospace" font-size="14" fill="#c0c0c0">           • <tspan fill="#bd93f9">Express, Svelte</tspan></text>
+  <text x="300" y="220" font-family="monospace" font-size="14" fill="#c0c0c0">Email      • <tspan fill="#8be9fd">adwaitrao7000@gmail.com</tspan></text>
+  <text x="300" y="240" font-family="monospace" font-size="14" fill="#c0c0c0">X.com      • <tspan fill="#f1fa8c">@adwaitwt</tspan></text>
 </svg>
