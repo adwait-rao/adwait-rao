@@ -1,27 +1,40 @@
-# 👋 Hi there, I'm Adwait Rao!
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in both UI/UX design and backend development. Here's a little more about me:
+# Hi there, I'm Adwait Rao &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-## 🚀 About Me
+<!-- Fake terminal SVG -->
+<img src="https://raw.githubusercontent.com/adwait-rao/adwait-rao/main/faketerminal.svg" alt="neofetch" width="90%" />
 
-- 🎨 **UI/UX Enthusiast**: I love creating intuitive and beautiful user interfaces.
-- 🛠️ **Backend Developer**: I enjoy working on the server-side, ensuring everything runs smoothly behind the scenes.
-- 📚 **Lifelong Learner**: Currently diving deep into Go (Golang) and exploring its potential for backend projects.
-- 💡 **Project Maker**: Constantly working on new projects to sharpen my skills and bring my ideas to life.
+</div>
 
-## 🔧 Technologies & Tools
+---
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, Go (learning)
-- **Design**: Figma, Adobe XD
-- **Databases**: PostgreSQL, MongoDB
-- **Other**: Git, Docker, Kubernetes
+### 🌱 About Me
 
-## 🌱 Currently Learning
+Hey there! I’m **Adwait Rao**, a CSE student learning how to build solid, clean, and efficient backend systems using **Golang**, **TypeScript**, and **React Native**.
 
-- Go (Golang): Building scalable and efficient backend services.
+I’m also into minimalist Linux setups, keyboard-driven workflows, and building CLI tools for devs.
 
-## 📫 How to Reach Me
+---
 
-- **LinkedIn**: [Adwait Rao](https://in.linkedin.com/in/adwait-rao-973a57222)
-- **Twitter/X**: [@adwaitwt](https://twitter.com/adwaitwt)
+### ⚡ Tech I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36"/>
+</p>
+
+---
+
+### 📫 Reach Me
+
+- 📧 Email: [adwaitrao7000@gmail.com](mailto:adwaitrao7000@gmail.com)  
+- 🐦 X: [@adwaitwt](https://x.com/adwaitwt)
+
