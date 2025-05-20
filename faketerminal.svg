@@ -7,7 +7,12 @@
   <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="6" fill="#27c93f"/>
 
-  <!-- Planet SVG centered vertically -->
+  <!-- Terminal hostname -->
+  <text x="300" y="45" font-family="monospace" font-size="16" fill="#66cc99">
+    adwaitrao@hostmalone
+  </text>
+
+  <!-- Planet graphic aligned vertically -->
   <g transform="translate(110, 150)">
     <circle cx="0" cy="0" r="60" fill="#4f8cc9" />
     <ellipse cx="0" cy="0" rx="80" ry="20" fill="none" stroke="#ffffff99" stroke-width="2"/>
@@ -15,12 +20,11 @@
     <ellipse cx="0" cy="0" rx="80" ry="20" fill="none" stroke="#ffffff33" stroke-width="2" transform="rotate(-30)"/>
   </g>
 
-  <!-- Terminal Info (Right side) -->
-  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">adwaitrao@hostmalone</text>
-  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS       •  Linux Mint 22.1 x86_64</text>
+  <!-- Terminal Info -->
+  <text x="300" y="70" font-family="monospace" font-size="14" fill="#c0c0c0">OS       • Linux Mint 22.1 x86_64</text>
   <text x="300" y="90" font-family="monospace" font-size="14" fill="#c0c0c0">Shell    • zsh 5.9</text>
   <text x="300" y="110" font-family="monospace" font-size="14" fill="#c0c0c0">Editor   • Neovim, VS Code</text>
-  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role     • CSE Student</text>
+  <text x="300" y="130" font-family="monospace" font-size="14" fill="#c0c0c0">Role     • Versatile Dev</text>
   <text x="300" y="150" font-family="monospace" font-size="14" fill="#c0c0c0">Learning • Go, TypeScript, React</text>
   <text x="300" y="170" font-family="monospace" font-size="14" fill="#c0c0c0">Known    • Linux, JavaScript, Node</text>
   <text x="300" y="190" font-family="monospace" font-size="14" fill="#c0c0c0">          • Express, Neovim</text>
