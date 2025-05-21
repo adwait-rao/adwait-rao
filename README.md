@@ -11,7 +11,7 @@
 
 ### 🌱 About Me
 
-Hey there! I’m **Adwait Rao**, a CSE student learning how to build solid, clean, and efficient backend systems using **Golang**, **TypeScript**, and **React Native**.
+Hey there! I’m **Adwait Rao**, a CSE student learning how to build solid, clean, and efficient backend systems using **Golang**, **TypeScript**, and building mobile apps using **React Native**.
 
 I’m also into minimalist Linux setups, keyboard-driven workflows, and building CLI tools for devs.
 
